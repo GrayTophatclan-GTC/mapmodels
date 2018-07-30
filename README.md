@@ -1,2 +1,4 @@
 # mapmodels
-Here is the Gray tophat clan mapmodel repository
+Here are the maps made by the clan GTC, including for now : Trooper, Goldenbrain, Arrinerron, Yoho, King/Emmanuel Macron, Gera, Zorglub, Naughtius Maximus, Linuxero
+
+These players use the game red eclipse, website : www.redeclipse.net, including a map editor You are of course free to help us making maps or other stuff
